@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Abdullah-Al-Ehsan
 -  CSE Student | Aspiring Software Engineer
+-  600+ problems solved | Research Enthusiast
 
 <!---
 Abdullah-Al-Ehsan/Abdullah-Al-Ehsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
