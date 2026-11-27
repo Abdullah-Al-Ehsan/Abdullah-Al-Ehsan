@@ -11,6 +11,7 @@
 - Interested in Software Engineering and Full-Stack Development.
 - Exploring Machine Learning, NLP, and Large Language Models.
 - Solved 600+ algorithmic problems.
+- Passionate about building practical and impactful applications.
 
 ### Technology Stack
 
