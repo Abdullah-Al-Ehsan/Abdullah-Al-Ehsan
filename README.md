@@ -28,7 +28,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="24" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=nestjs" height="24" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" height="24" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" height="24" />
 </p>
 
 ### Databases
