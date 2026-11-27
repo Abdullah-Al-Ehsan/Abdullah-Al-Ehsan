@@ -22,4 +22,6 @@
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vercel,railway,vscode&perline=12&size=25" />
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vercel,vscode&perline=12&size=25" />
