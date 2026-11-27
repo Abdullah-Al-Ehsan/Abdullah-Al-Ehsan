@@ -19,7 +19,6 @@
 
 **Technologies:** React, Next.js, Node.js, NestJS, FastAPI, TypeORM, Tailwind CSS
 
-**Machine Learning & AI:** PyTorch, Transformers, RAG, LLM Evaluation, NLP
 
 ### 🗄️ Databases
 
