@@ -43,6 +43,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="24" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="24" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=linux" height="24" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=colab" height="24" />
   <img src="https://skillicons.dev/icons?i=postman" height="24" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=vercel" height="24" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="24" />
