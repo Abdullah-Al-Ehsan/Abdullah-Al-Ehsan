@@ -5,7 +5,7 @@
   Software Engineer | Full-Stack Developer | AI/ML Research Enthusiast
 </p>
 
-### 👨‍💻 About Me
+### About Me
 
 - CSE student at American International University-Bangladesh (AIUB).
 - Interested in Software Engineering and Full-Stack Development.
@@ -13,17 +13,20 @@
 - Solved 600+ algorithmic problems.
 - Passionate about building practical and impactful applications.
 
-### 🛠️ Technology Stack
+### Technology Stack
 
-**Languages:** C, C++, C#, Python, JavaScript, TypeScript, PHP, PL/SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,php,react,nextjs,nodejs,nestjs,fastapi,tailwind,pytorch" />
+</p>
 
-**Technologies:** React, Next.js, Node.js, NestJS, FastAPI, TypeORM, Tailwind CSS
+### Databases
 
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
 
-### 🗄️ Databases
+### Tools & Platforms
 
-PostgreSQL, MySQL
-
-### ⚙️ Tools & Platforms
-
-Git, GitHub, Linux, Postman, Vercel, Railway, OpenGL
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vercel,railway,vscode" />
+</p>
